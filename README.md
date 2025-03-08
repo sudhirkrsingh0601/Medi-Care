@@ -1,0 +1,3 @@
+- Hospitals often face inefficiencies in managing patient records, appointments, and billing, leading to delays and miscommunication.
+- A centralized digital system using Java and MySQL can streamline hospital management by automating patient records, scheduling, and billing processes.
+-Medi-Care provides a robust hospital management system with secure patient data storage, easy appointment scheduling, and efficient billing, ensuring smooth hospital operations.
